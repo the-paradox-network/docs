@@ -1,5 +1,10 @@
+
 # docs
-The Paradox Network is Ethereum's version of Bitcoin's Lightning Network.
+The Paradox Network is Ethereum's version of Bitcoin's Lightning Network, enabling fast, cheap, scalable payments.
+=======
+# docs 
+The Paradox Network is Ethereum's version of Bitcoin's Lightning Network, enabling fast, cheap, scalable payments.
+
  
 
 1.	SCALABILITY - Off-chain payment channels capable of millions to billions of transactions per second across the network.
